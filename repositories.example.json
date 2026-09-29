@@ -1,0 +1,10 @@
+[
+  {
+    "name": "project-one",
+    "clone_url": "https://git.example.org/team/project-one.git"
+  },
+  {
+    "name": "project-two",
+    "clone_url": "https://another.example.org/project-two.git"
+  }
+]
